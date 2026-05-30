@@ -1,0 +1,14 @@
+### Footprint positions - created on 2026-05-29T23:53:48 ###
+### Printed by KiCad version 10.0.2
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val             Package                                           PosX       PosY       Rot  Side
+C1        100_nF          C_0402_1005Metric                              97.5200   -53.2100    0.0000  top
+C2        0.1_uF          C_0402_1005Metric                              97.4924   -55.3500    0.0000  top
+C3        4.7_uF          C_0402_1005Metric                              97.5200   -57.0000    0.0000  top
+R1        4.7k            R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    98.0000   -47.6250    0.0000  top
+R2        4.7k            R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    98.0000   -49.6150    0.0000  top
+U1        102010428       MODULE_102010428                              111.4425   -55.7250  -90.0000  top
+U2        MMA8452QR1      PQFN50P300X300X100-16N                         97.6312   -71.4375    0.0000  top
+U3        DM-OLED096-636  MODULE_DM-OLED096-636                         109.5375   -30.9562    0.0000  top
+## End
