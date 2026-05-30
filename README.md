@@ -1,4 +1,4 @@
-# SOFIA-Sensor-Observation-For-I-C-Applications
+# SOFIA (Sensor-Observation-For-I-C-Applications)
 Another guided project for HC!
 This project is based on the Hermes guide that can fe foud in the Stasis web, so I'll be leaving my files just in case you wanna make your own IC2 project or take a look at them! :D
 
