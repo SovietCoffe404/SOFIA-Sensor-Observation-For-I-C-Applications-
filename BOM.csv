@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_0402_1005Metric";1;"100 nF";;;
+2;"C2";"C_0402_1005Metric";1;"0.1 uF";;;
+3;"C3";"C_0402_1005Metric";1;"4.7 uF";;;
+4;"R1, R2";"R_0402_1005Metric_Pad0.72x0.64mm_HandSolder";2;"4.7k";;;
+5;"U1";"MODULE_102010428";1;"102010428";;;
+6;"U2";"PQFN50P300X300X100-16N";1;"MMA8452QR1";;;
+7;"U3";"MODULE_DM-OLED096-636";1;"DM-OLED096-636";;;
