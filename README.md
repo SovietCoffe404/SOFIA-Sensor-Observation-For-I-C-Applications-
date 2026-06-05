@@ -1,6 +1,7 @@
 # SOFIA (Sensor-Observation-For-IC-Applications)
 Another guided project for HC!
 This project is based on the Hermes guide that can fe foud in the Stasis web, so I'll be leaving my files just in case you wanna make your own IC2 project or take a look at them! :D
+I decided to make this project because I wanted to learn a little bit about IC2 aplications and improving my PCB-Making skills
 
 <img width="298" height="469" alt="Screenshot 2026-05-29 233504" src="https://github.com/user-attachments/assets/87e967cb-cf58-4794-b236-10ee758028ec" />
 
