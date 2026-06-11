@@ -8,3 +8,22 @@ I decided to make this project because I wanted to learn a little bit about IC2 
 <img width="1088" height="619" alt="Screenshot 2026-05-29 225142" src="https://github.com/user-attachments/assets/0f68b0c3-6738-4a04-a85d-6c85a46b51cb" />
 
 <img width="1198" height="426" alt="Screenshot 2026-05-30 104454" src="https://github.com/user-attachments/assets/1670d051-aedf-470c-97ef-a26b1db62bc1" />
+
+<img width="1134" height="679" alt="Screenshot 2026-06-11 153855" src="https://github.com/user-attachments/assets/d7493288-acf0-43a5-9481-1a1835e6dd53" />
+
+Also heres a little BOM of the parts used in this project
+
+-MMA8452QR1 
+https://es.aliexpress.com/item/1005008484816031.html?spm=a2g0o.productlist.main.2.1ca5379cym3eU4&algo_pvid=4be32cea-87c3-4cef-b134-8a1b6df1ebff&algo_exp_id=4be32cea-87c3-4cef-b134-8a1b6df1ebff-1&pdp_ext_f=%7B"order"%3A"-1"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21MXN%21128.19%2151.14%21%21%2149.06%2119.57%21%4021030a4b17801590072572449e82d5%2112000045350593561%21sea%21MX%217457249807%21X%211%210%21n_tag%3A-29911%3Bd%3Aa5ac4bc3%3Bm03_new_user%3A-29895%3BpisId%3A5000000204365097&curPageLogUid=OsHkh2n38Mqs&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008484816031%7C_p_origin_prod%3A
+
+-SMD capacitor Kit
+https://es.aliexpress.com/item/1005010813164058.html?spm=a2g0o.cart.0.0.1fc838daob3FFH&mp=1&pdp_npi=6%40dis%21MXN%21MXN+149.90%21MXN+149.90%21%21MXN+149.90%21%21%21%4021032f3717801593131838995e3335%2112000055817174281%21ct%21MX%217457249807%21%211%210%21&gatewayAdapt=glo2esp
+
+-XIAO RP2040
+https://es.aliexpress.com/item/1005008484816031.html?spm=a2g0o.productlist.main.2.1ca5379cym3eU4&algo_pvid=4be32cea-87c3-4cef-b134-8a1b6df1ebff&algo_exp_id=4be32cea-87c3-4cef-b134-8a1b6df1ebff-1&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21MXN%21128.19%2151.14%21%21%2149.06%2119.57%21%4021030a4b17801590072572449e82d5%2112000045350593561%21sea%21MX%217457249807%21X%211%210%21n_tag%3A-29911%3Bd%3Aa5ac4bc3%3Bm03_new_user%3A-29895%3BpisId%3A5000000204365097&curPageLogUid=OsHkh2n38Mqs&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008484816031%7C_p_origin_prod%3A
+
+-RP2040
+https://es.aliexpress.com/item/1005011855471144.html?spm=a2g0o.productlist.main.2.7a433hzg3hzguN&algo_pvid=932adad8-243e-4d61-8988-d7da4850f4da&algo_exp_id=932adad8-243e-4d61-8988-d7da4850f4da-1&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21MXN%21104.57%2117.49%21%21%2140.02%216.69%21%402101e2b017801592854347400eb257%2112000056789345871%21sea%21MX%217457249807%21X%211%210%21n_tag%3A-29911%3Bd%3Aa5ac4bc3%3Bm03_new_user%3A-29895%3BpisId%3A5000000204365097&curPageLogUid=71qcM8RzBNBB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011855471144%7C_p_origin_prod%3A
+
+-SMD Resistor 4.7kΩ Kit
+https://es.aliexpress.com/item/1005011982912733.html?spm=a2g0o.cart.0.0.1fc838daob3FFH&mp=1&pdp_npi=6%40dis%21MXN%21MXN+13.07%21MXN+11.13%21%21MXN+11.13%21%21%21%4021032f3717801593131838995e3335%2112000057190323323%21ct%21MX%217457249807%21%211%210%21&gatewayAdapt=glo2esp
